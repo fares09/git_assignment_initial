@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// change for pull
 public class Main {
 	//
 	private static ISubscriber subscribers [] = {
